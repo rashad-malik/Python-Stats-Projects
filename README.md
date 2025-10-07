@@ -93,7 +93,6 @@ pip install pandas numpy matplotlib scipy geopandas statsmodels
 - **Data Visualisation:** Custom plots using matplotlib
 - **Spatial Analysis:** Geographic data manipulation and visualisation
 
-
 ---
 
 ## 🙏 Acknowledgments
